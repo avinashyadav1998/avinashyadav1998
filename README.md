@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Avinash Yadav</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Power BI, Python**
+- 🌱 I’m currently learning **Machine Learning, Spark, DeltaLake**
 
 - 👨‍💻 All of my projects are available at [avinashyadav1998.github.io/](avinashyadav1998.github.io/)
 
