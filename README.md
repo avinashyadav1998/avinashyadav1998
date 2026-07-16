@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Avinash Yadav</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Spark, DeltaLake**
+- 🌱 I’m currently learning **Spark, DeltaLake**
 
 - 👨‍💻 All of my projects are available at [avinashyadav1998.github.io/](avinashyadav1998.github.io/)
 
